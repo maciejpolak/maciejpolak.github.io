@@ -1,0 +1,80 @@
+body {
+    margin: 0;
+}
+
+header {
+    padding: 10em 0;
+    background: url(camo.jpg) center center;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+header div {
+    background: #fff;
+    color: #000;
+    font-family: "Alfa Slab One";
+    font-size: 2.5em;
+    padding: 0.5em 2em;
+    display: inline-block;
+    box-shadow: 0px 4px 64px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    font-family: "Alfa Slab One";
+    font-size: 4em;
+    font-weight: 400;
+    text-align: center;
+    color: #fff;
+}
+
+h2 {
+    font-family: "Alfa Slab One";
+    font-size: 2.4em;
+    font-weight: 400;
+    text-align: center;
+    color: #fff;
+    text-shadow: 0px 2px 32px rgba
+}
+
+article {
+    padding: 18em 0;
+    text-align: center;
+}
+
+article div {
+    background: url(camo.jpg) center center;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;
+    font-family: "Alfa Slab One";
+    font-size: 2.5em;
+    padding: 0.5em 2em;
+    display: inline-block;
+    box-shadow: 0px 4px 64px rgba(0, 0, 0, 0.2);
+}
+
+article div a {
+    color: inherit;
+    font-size: 0.6em;
+    text-decoration: none;
+    border-bottom: 0.3em dashed rgba(255, 255, 255, 0.8);
+    line-height: 1;
+    opacity: 0.8
+}
+
+aside {
+    padding: 35em 0 8em 0;
+    text-align: center;
+}
+
+aside div {
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    font-family: "Alfa Slab One";
+    font-size: 1.3em;
+    padding: 0.5em 2em;
+    display: inline-block;
+    box-shadow: 0px 4px 64px rgba(0, 0, 0, 0.2);
+    max-width: 35em;
+}
